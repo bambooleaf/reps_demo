@@ -1,7 +1,6 @@
 {
   "name": "reps_demo/helloworld",
   "description": "test the private repository",
-  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
