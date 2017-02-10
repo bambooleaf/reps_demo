@@ -9,7 +9,7 @@ namespace Hello;
  */
 class HelloWorld
 {
-    public function sayHello(){
+    public function say_hello(){
         echo "hello world";
     }
 
