@@ -9,7 +9,8 @@
     }
   ],
   "require":{
-    "php":">=5.4.0"
+    "php":">=5.4.0",
+    "phpunit/php-timer":"*"
   },
   "autoload": {
     "psr-4": {
